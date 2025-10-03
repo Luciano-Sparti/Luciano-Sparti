@@ -1,17 +1,41 @@
-## Luciano's Profile
+# 👋 Hi, I'm Luciano  
 
-<br>
+🚀 DevSecOps | Cybersecurity | Cloud Automation  
 
-<div align=center>
+I'm a **DevOps Engineer** working at the intersection of automation, security, and reliability.  
+Currently, I'm deep-diving into **DevSecOps practices**, building secure pipelines, and exploring custom toolings for encryption.  
 
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=lucianosp&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Luciano's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=lucianosp&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Luciano's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianosp&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Luciano's Most Used Languages" />
-</div>
+---
 
-<hr>
+## 🛠️ Tech Stack & Tools  
+**Hard Skills:** CI/CD Pipelines · Cloud Computing (AWS) · Automation · Server Administrator · Configuration Management · Network Administration · Security<br>
+**Tools and Software:** Python · Bash & Shell Scripting · SQL, Postgres · Elasticsearch (ELK) · Docker and Kubernetes · Terraform<br>
+**Techniques:** Agile Methodologies · Virtualization<br>
+**Soft Skills:** Problem Solver · Leader · Knowledge Seeker · Hard Worker · Organized · Able to take on responsibilities.<br>
 
-<br>
-<br>
-- 🔭 I’m currently working on more DevOps tools and templates! <br>
-- 🌱 I’m currently learning encryption and cybersecurity.
+---
+## 📂 Featured Projects  
+Thesis: Violence Recognition System via Convolutional Neural Networks (TensorFlow, Python)
+Face Recognition System with Computer Vision (OpenCV, Laravel)
+
+---
+
+## 🔐 Current Focus  
+- Automating **secure CI/CD pipelines** with policy enforcement  
+- Writing **Rust utilities** for file operations & security checks  
+- Improving workflows with **Infrastructure as Code (IaC)**  
+- Studying best practices in **cloud security** and **OSINT**  
+
+---
+
+## 📈 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianosp&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianosp&layout=compact&theme=radical)  
+
+---
+
+## 🌍 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Luciano-Sparti/)  
+📩 Email: [luciano.sparti@proton.me](mailto:luciano.sparti@proton.me)
+
+---
