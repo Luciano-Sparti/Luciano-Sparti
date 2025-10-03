@@ -14,9 +14,9 @@
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/lucianosp/count.svg" alt="Visitor's Count" />
+  ![](https://komarev.com/ghpvc/?username=lucianosp)
 </div>
 <br>
 <br>
-- 🔭 I’m currently working on more DevOps tools and templates!
+- 🔭 I’m currently working on more DevOps tools and templates! <br>
 - 🌱 I’m currently learning encryption and cybersecurity.
