@@ -47,9 +47,12 @@ frontend    RUNNING    84489    0.0%     140.2 MB   2m 47s
 
 🔗 **[github.com/Luciano-Sparti/FATES](https://github.com/Luciano-Sparti/FATES)** · ⭐ star it if process juggling annoys you too
 
+
 ### 🔜 Upcoming
-- **🗳️ Blockchain Voting System** — a tamper-evident voting platform built on blockchain, exploring verifiable, transparent elections without sacrificing voter anonymity.
-- **🛡️ Compliance-as-Code Scanner** — a scanner that turns policy requirements into executable checks, so compliance becomes a CI gate instead of a yearly fire drill.
+- *🗳️ Blockchain Voting System* — a tamper-evident voting platform built on blockchain, exploring verifiable, transparent elections without sacrificing voter anonymity.
+- *🛡️ Compliance-as-Code Scanner* — a scanner that turns policy requirements into executable checks, so compliance becomes a CI gate instead of a yearly fire drill.
+- *🔒 Encrypted Secrets Vault CLI* — a local-first, TPM-backed encrypted secrets vault for developers and DevOps workflows, storing secrets encrypted on disk with shell/env injection, rotation, and audit logging.
+- *🚨 Incident Runbook Automator* — a CLI that ingests alerts, gathers related configs/logs, and drafts a timestamped incident brief with timeline, blast radius, and suggested next steps to cut MTTR.
 
 ### 🎓 Academic
 - **Violence Recognition System** via Convolutional Neural Networks (TensorFlow, Python)
@@ -59,6 +62,7 @@ frontend    RUNNING    84489    0.0%     140.2 MB   2m 47s
 
 ## 🔐 Current Focus
 - Maintaining **FATES** and shipping Rust utilities for security & file operations
+- Building **Encrypted Secrets Vault CLI** and **Incident Runbook Automator**
 - Automating **secure CI/CD pipelines** with policy enforcement
 - Practicing **Infrastructure as Code (IaC)** and studying cloud security & OSINT
 
