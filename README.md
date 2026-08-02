@@ -24,6 +24,7 @@ A running log of what I build — from shipped tools to things still on the loom
 
 ### ⚡ FATES — Declarative Process Orchestrator
 [![CI](https://github.com/Luciano-Sparti/FATES/actions/workflows/ci.yml/badge.svg)](https://github.com/Luciano-Sparti/FATES/actions/workflows/ci.yml)
+[![crates.io](https://img.shields.io/crates/v/fates-cli)](https://crates.io/crates/fates-cli)
 **Rust · CLI · Open Source**
 
 > *Thread management, orchestrated.* Spin to register, draw to run, cut to end — process management as the three Fates would have it.
