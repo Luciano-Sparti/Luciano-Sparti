@@ -22,6 +22,27 @@ I work at the intersection of automation, security, and reliability — building
 
 A running log of what I build — from shipped tools to things still on the loom.
 
+### 🪟 Cardea — Desktop-Ergonomic Terminal File Manager
+[![CI](https://github.com/Luciano-Sparti/cardea/actions/workflows/ci.yml/badge.svg)](https://github.com/Luciano-Sparti/cardea/actions/workflows/ci.yml)
+[![crates.io](https://img.shields.io/crates/v/cardea)](https://crates.io/crates/cardea)
+**Rust · TUI · Ratatui · Open Source**
+
+> *Desktop ergonomics, terminal speed.* Bridging the gap between terminal efficiency and modern desktop file managers with first-class mouse support, collapsible trees, and multimodal previews.
+
+Cardea brings the familiar visual language of modern desktop explorers (KDE Dolphin, Windows File Explorer) into the terminal, built on an asynchronous zero-lag rendering core:
+
+```bash
+cargo install cardea # or install via one-line curl script
+cardea               # launch in current directory
+```
+
+- 🖱️ **Hybrid Navigation** — Full first-class mouse ergonomics (drag & drop, context menus, column resizing) + Vim keybindings (`hjkl`) & multi-selection.
+- 🗂️ **Desktop-Class Shell** — Collapsible sidebar tree, virtualized 60 FPS table (100k+ files), interactive breadcrumbs (`Ctrl+L`), tabs (`Ctrl+T`), and dual-pane Commander view (`F3`).
+- 👁️ **Multimodal Previews** — Syntax highlighting via `syntect`, high-res terminal graphics (Kitty/Sixel/iTerm2), archive inspection (`.zip`, `.tar`, `.7z`), and hex dumps.
+- 🛡️ **Safety & Polish** — Non-blocking async I/O workers, Freedesktop Trash (`trash-rs`) protection, and live dynamic theme hot-reloading.
+
+🔗 **[github.com/Luciano-Sparti/cardea](https://github.com/Luciano-Sparti/cardea)** · ⭐ star it if you want desktop file manager power in your terminal
+
 ### ⚡ FATES — Declarative Process Orchestrator
 [![CI](https://github.com/Luciano-Sparti/FATES/actions/workflows/ci.yml/badge.svg)](https://github.com/Luciano-Sparti/FATES/actions/workflows/ci.yml)
 [![crates.io](https://img.shields.io/crates/v/fates-cli)](https://crates.io/crates/fates-cli)
@@ -61,7 +82,7 @@ frontend    RUNNING    84489    0.0%     140.2 MB   2m 47s
 ---
 
 ## 🔐 Current Focus
-- Maintaining **FATES** and shipping Rust utilities for security & file operations
+- Maintaining **Cardea** & **FATES**, and shipping Rust utilities for system & file operations
 - Building **Encrypted Secrets Vault CLI** and **Incident Runbook Automator**
 - Automating **secure CI/CD pipelines** with policy enforcement
 - Practicing **Infrastructure as Code (IaC)** and studying cloud security & OSINT
